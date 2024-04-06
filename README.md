@@ -1,3 +1,3 @@
-GAIT Analysis from signal data : LSTM Approach
+# GAIT Analysis from signal data : LSTM Approach
 
-Dataset Link : https://doi.org/10.24432/C54S4K
+### Dataset Link : https://doi.org/10.24432/C54S4K
